@@ -1,2 +1,2 @@
-# bem-style-guide-creator-20250817_020919
-Auto-exported from VibeSheet for idea 1031
+git clone https://github.com/username/bem-style-guide-creator.git
+   cd bem-style-guide-creator
